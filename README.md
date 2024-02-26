@@ -1,5 +1,4 @@
 <h1> NWL Expert </h1>
-<h1> NWL Expert </h1>
 
 <p align= 'center'>
 Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat<br/>
